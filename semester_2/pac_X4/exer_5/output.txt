@@ -1,0 +1,9 @@
+0 = 3
+1 = mama
+2 = mila
+3 = ramu
+Missing function concat_2 in plugin core
+0 = 3
+1 = mamamama
+2 = mila
+milamamamama
